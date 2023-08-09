@@ -9,9 +9,9 @@ Professor Name: Line A. Roald
 The Traveling Software Engineer
 
 <p float="left">
-  <img src="https://github.com/zwu363/UW-Madison-SP22-CS524/blob/main/figure/figure3.png" width="300" />
-  <img src="https://github.com/zwu363/UW-Madison-SP22-CS524/blob/main/figure/figure4.png" width="300" /> 
-  <img src="https://github.com/zwu363/UW-Madison-SP22-CS524/blob/main/figure/figure5.png" width="300" />
+  <img src="https://github.com/zwu363/UW-Madison-SP22-CS524/blob/main/figure/figure3.png" width="280" />
+  <img src="https://github.com/zwu363/UW-Madison-SP22-CS524/blob/main/figure/figure4.png" width="280" /> 
+  <img src="https://github.com/zwu363/UW-Madison-SP22-CS524/blob/main/figure/figure5.png" width="280" />
 </p>
 
 Figure: **Left**: The optimal flights to optimize cost and visit each region. **Middle**: The optimal flights to optimize time and visit each region. **Right**:The optimal flights to optimize cost & time and visit each city.
